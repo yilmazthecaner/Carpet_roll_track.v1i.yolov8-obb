@@ -1,5 +1,45 @@
+# Explicit large files already present in repo
 best.pt_repacked.pt
 fabrika.mp4
 cancan.mp4
 yolov8m-obb.pt
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Environment files
+.env
+
+# Model checkpoint files
+*.pt
+*.pth
+*.ckpt
+*.weights
+
+# Large dataset folders (do not track by default)
+train/
+valid/
+test/
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Model unpacked directories
 best.pt/
+
+# Reports (optional large logs)
+*_raporu.txt
+
