@@ -1,0 +1,17 @@
+HALI SAYIM RAPORU v8 (OBB + ByteTrack)
+========================================
+Video: fabrika.mp4
+Model: best.pt
+Çizgi: (1427, 820) -> (1830, 817)
+Conf: 0.25 | IoU: 0.7
+
+Giriş: 6
+Çıkış: 0
+NET: 6
+
+1. [GIRIS] Frame 84, t=4.2s, T1, conf=0.86
+2. [GIRIS] Frame 111, t=5.5s, T4, conf=0.89
+3. [GIRIS] Frame 128, t=6.4s, T6, conf=0.87
+4. [GIRIS] Frame 131, t=6.5s, T7, conf=0.88
+5. [GIRIS] Frame 133, t=6.7s, T8, conf=0.87
+6. [GIRIS] Frame 134, t=6.7s, T10, conf=0.89
